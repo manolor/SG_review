@@ -1,3 +1,3 @@
 # SG_review
 Savings Groups
-List of pdf in the study
+ This is the list of documents in the study, as listed: thesis, report, papers, working papers..
